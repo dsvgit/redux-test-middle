@@ -23,7 +23,7 @@
 
 ### Пример (gif)
 
-![alt gif_ex](https://raw.githubusercontent.com/dsvgit/redux-test-middle/master/demo.gif)
+![alt gif_ex](https://raw.githubusercontent.com/dsvgit/redux-test-middle/master/demo-middle.gif)
 
 ## Требования
 1. Все компоненты не должны иметь локального стейта.
