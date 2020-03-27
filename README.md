@@ -21,7 +21,7 @@
 
 После перезагрузки страницы состояние приложения должно восстанавливаться (посты, иконки).
 
-### Пример (gif)
+### Пример (gif 14mb)
 
 ![alt gif_ex](https://raw.githubusercontent.com/dsvgit/redux-test-middle/master/demo-middle.gif)
 
